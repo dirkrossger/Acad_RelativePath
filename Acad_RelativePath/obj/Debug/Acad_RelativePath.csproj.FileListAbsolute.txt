@@ -1,0 +1,6 @@
+H:\GitExtenions\Acad_RelativePath\Acad_RelativePath\bin\Debug\Acad_RelativePath.dll
+H:\GitExtenions\Acad_RelativePath\Acad_RelativePath\bin\Debug\Acad_RelativePath.pdb
+H:\GitExtenions\Acad_RelativePath\Acad_RelativePath\obj\Debug\Acad_RelativePath.dll
+H:\GitExtenions\Acad_RelativePath\Acad_RelativePath\obj\Debug\Acad_RelativePath.pdb
+H:\GitExtenions\Acad_RelativePath\Acad_RelativePath\obj\Debug\Acad_RelativePath.Form1.resources
+H:\GitExtenions\Acad_RelativePath\Acad_RelativePath\obj\Debug\Acad_RelativePath.csproj.GenerateResource.Cache
